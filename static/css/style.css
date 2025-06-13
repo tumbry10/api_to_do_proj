@@ -1,0 +1,16 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h1 {
+  font-weight: bolder;
+}
+
+input[type="text"] {
+  border-radius: 0;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  border: none;
+}
